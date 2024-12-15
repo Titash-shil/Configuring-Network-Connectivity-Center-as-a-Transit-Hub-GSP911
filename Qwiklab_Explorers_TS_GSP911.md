@@ -10,6 +10,10 @@
 - ### Copy & Run :
 
 ```
+export ZONE_2=
+```
+
+```
 curl -LO raw.githubusercontent.com/Titash-shil/Cloud-Operations-for-GKE-GSP497/refs/heads/main/qwiklab_explorers_ts_gsp497.sh
 
 sudo chmod +x qwiklab_explorers_ts_gsp497.sh
